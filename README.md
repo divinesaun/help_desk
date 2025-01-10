@@ -1,1 +1,1 @@
-# help_desk
+A command-line interface project that demonstrates crud operations on text file data. The context is of a Help Desk platform where users post the challenges that are occurring at a workplace. The "status" component helps in determining the priority of a given complaint
